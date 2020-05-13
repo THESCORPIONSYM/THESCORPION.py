@@ -102,10 +102,10 @@ elif number == 0:
 print ("Done see you soon...*_-")
 THESCORPION = """
 |______________________________________
-|script made by:\n	                       	       |
-|====>maskun                                             |
-|channel telegram:\n		                          |
-|===>https://t.me/xomhg31                      |
+|script made by:\n	               |
+|====>maskun                           |
+|channel telegram:\n		       |
+|===>https://t.me/xomhg31              |
 |______________________________________|
 """
 print (THESCORPION)
